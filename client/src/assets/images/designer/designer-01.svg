@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f1eb"/><stop offset="1" stop-color="#c8b4a4"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><circle cx="620" cy="212" r="158" fill="#fff" fill-opacity=".34"/><rect x="94" y="126" width="612" height="748" rx="44" fill="#fff" fill-opacity=".56"/><path d="M268 316c36-55 228-55 264 0l26 208c0 120-66 209-158 286-96-74-158-166-158-286l26-208Z" fill="#221f1b" fill-opacity=".16"/><text x="400" y="706" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 01</text><text x="400" y="758" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Evening gown profile</text>
+</svg>

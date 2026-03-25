@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf7f3"/><stop offset="1" stop-color="#d7c7bb"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><rect x="88" y="114" width="624" height="772" rx="46" fill="#fff" fill-opacity=".58"/><circle cx="608" cy="240" r="150" fill="#fff" fill-opacity=".26"/><path d="M274 322c44-60 208-72 252 0 26 90 34 156 34 206 0 122-74 214-160 292-96-73-160-176-160-292 0-50 8-116 34-206Z" fill="#221f1b" fill-opacity=".15"/><text x="400" y="710" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 03</text><text x="400" y="762" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Reception statement</text>
+</svg>

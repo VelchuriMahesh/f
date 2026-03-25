@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5eee8"/><stop offset="1" stop-color="#c9b7aa"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><rect x="88" y="118" width="624" height="764" rx="44" fill="#fff" fill-opacity=".58"/><circle cx="612" cy="240" r="146" fill="#fff" fill-opacity=".24"/><path d="M294 320c36-52 176-66 212 0 40 122 50 190 50 248 0 110-68 202-156 288-98-80-156-176-156-288 0-58 10-126 50-248Z" fill="#221f1b" fill-opacity=".16"/><text x="400" y="710" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 10</text><text x="400" y="762" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Premium boutique edit</text>
+</svg>

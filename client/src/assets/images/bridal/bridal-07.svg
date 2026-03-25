@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7ede5"/><stop offset="1" stop-color="#d8b8a4"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><rect x="86" y="114" width="628" height="772" rx="48" fill="#fff" fill-opacity=".58"/><circle cx="596" cy="248" r="152" fill="#fff" fill-opacity=".24"/><path d="M246 334c62-70 246-70 308 0-8 160-44 264-154 350-112-84-146-192-154-350Z" fill="#6e5845" fill-opacity=".19"/><text x="400" y="712" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">BRIDAL 07</text><text x="400" y="764" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Back-neck statement</text>
+</svg>

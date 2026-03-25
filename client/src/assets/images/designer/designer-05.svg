@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6f1ea"/><stop offset="1" stop-color="#d3c4b9"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><rect x="92" y="120" width="616" height="760" rx="40" fill="#fff" fill-opacity=".58"/><circle cx="620" cy="748" r="142" fill="#fff" fill-opacity=".24"/><path d="M300 312c30-42 170-42 200 0l38 204c0 110-44 197-138 290-94-93-138-180-138-290l38-204Z" fill="#221f1b" fill-opacity=".15"/><text x="400" y="710" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 05</text><text x="400" y="762" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Minimal couture line</text>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4eee8"/><stop offset="1" stop-color="#c6b4a7"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><circle cx="614" cy="226" r="154" fill="#fff" fill-opacity=".26"/><rect x="90" y="116" width="620" height="768" rx="46" fill="#fff" fill-opacity=".57"/><path d="M284 318c42-62 190-62 232 0 38 108 52 188 52 250 0 112-70 202-168 284-98-82-168-172-168-284 0-62 14-142 52-250Z" fill="#221f1b" fill-opacity=".16"/><text x="400" y="710" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 07</text><text x="400" y="762" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Fusion festive mood</text>
+</svg>

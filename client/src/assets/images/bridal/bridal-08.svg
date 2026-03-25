@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf4ee"/><stop offset="1" stop-color="#d2af97"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><circle cx="180" cy="780" r="138" fill="#fff" fill-opacity=".24"/><rect x="96" y="132" width="608" height="742" rx="40" fill="#fff" fill-opacity=".57"/><path d="M276 336c66-63 186-63 248 0 0 174-27 270-124 352-97-82-124-178-124-352Z" fill="#6e5845" fill-opacity=".18"/><text x="400" y="710" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">BRIDAL 08</text><text x="400" y="762" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Gold thread elegance</text>
+</svg>

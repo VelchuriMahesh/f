@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8f4"/><stop offset="1" stop-color="#cdbfb2"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/><circle cx="190" cy="770" r="138" fill="#fff" fill-opacity=".22"/><rect x="98" y="130" width="604" height="742" rx="44" fill="#fff" fill-opacity=".59"/><path d="M298 314c28-47 176-68 204 0 46 128 54 212 54 268 0 102-70 192-156 280-96-78-156-174-156-280 0-56 8-140 54-268Z" fill="#221f1b" fill-opacity=".16"/><text x="400" y="708" fill="#221f1b" font-family="Poppins, Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle">DESIGNER 06</text><text x="400" y="760" fill="#6e5845" font-family="Poppins, Arial, sans-serif" font-size="24" text-anchor="middle">Structured event edit</text>
+</svg>
